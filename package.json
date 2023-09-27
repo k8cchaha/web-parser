@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/k8cchaha/web-parser/issues"
   },
-  "homepage": "https://github.com/k8cchaha/web-parser#readme"
+  "homepage": "https://github.com/k8cchaha/web-parser#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-html-import": "^0.0.2"
+  }
 }
