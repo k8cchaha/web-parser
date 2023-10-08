@@ -1,3 +1,9 @@
+# Init
+>> npm install
+
+# Gulp
+>> sudo npm install gulp -g
+
 # 組合 html
 >> gulp import
 
